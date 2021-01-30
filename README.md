@@ -28,3 +28,11 @@ Naïve Bayes Classification
 ### Task 5
 Tree-augmented Naïve Bayes Classification
 Calculate the whole Bayesian Network is pretty expensive. If we can figure out which two factors are closely related, it will reduce a lot of calculation.
+
+## Assignment2
+
+### Background
+In this assignment, we write a program that plays the part of a “smart building”. This program will be given a real-time stream of sensor data from throughout the building, and use this data to decide whether to turn on the lights in each room
+
+### Models
+We use Hidden Markov Model and Naïve Bayes Model. The specific description is written in the report.
