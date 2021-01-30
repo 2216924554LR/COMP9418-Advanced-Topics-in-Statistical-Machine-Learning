@@ -25,6 +25,6 @@ the Bayesian network parameters from the training set.
 ### Task 4
 Naïve Bayes Classification
 
-### Task 4
+### Task 5
 Tree-augmented Naïve Bayes Classification
 Calculate the whole Bayesian Network is pretty expensive. If we can figure out which two factors are closely related, it will reduce a lot of calculation.
